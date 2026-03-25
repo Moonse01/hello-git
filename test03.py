@@ -3,4 +3,5 @@ def sayHello(name):
     return 'Hello, ' + name + '!'
     
 inName = 'Tom'
-print(sayHello(inName))
+print(sayHello(inName)
+print("main브랜치에서 새로운 커밋 생성")
