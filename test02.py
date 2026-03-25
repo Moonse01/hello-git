@@ -2,7 +2,8 @@
 def mulNum(a, b):
     result = a * b
     return result
-    
+
+#주석 넣어봐쑈
 num01 = 10
 num02 = 20
 print(mulNum(num01, num02))
